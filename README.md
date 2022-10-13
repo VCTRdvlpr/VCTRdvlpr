@@ -1,5 +1,6 @@
-## Bem-vindo(a) ao perfil de um dev iniciante 🧑‍💻​
-### 
+## Welcome to the profile of a novice developer 🧑‍💻​
+### Brazilian
+### 25y
 
  <div>
    <a href="https://github.com/VCTRdvlpr">
