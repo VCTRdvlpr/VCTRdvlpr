@@ -1,7 +1,7 @@
 ## Welcome to the profile of a novice developer 🧑‍💻​
 ### Brazilian
 ### 25yo
-### Analysis and systems development at FMU
+### Analysis and systems development studant at FMU
 
  <div>
    <a href="https://github.com/VCTRdvlpr">
