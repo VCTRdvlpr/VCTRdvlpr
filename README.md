@@ -28,9 +28,7 @@
 <br> 
 <div> 
   <a href="https://www.linkedin.com/in/victor-hugo-affonso-165848207" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/vctr_dvlpr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-     
- 
-![Snake animation](https://github.com/VCTRdvlpr/VCTRdvlpr/blob/output/github-contribution-grid-snake.svg)
+  <a href="https://instagram.com/vctr_dvlpr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>     
+
 
 </div>
